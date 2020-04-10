@@ -1,0 +1,17 @@
+.animation {
+    background: linear-gradient(to left, rgb(176, 239, 250),rgb(134, 163, 241));
+    top: 0; 
+    left: 0; 
+    min-width: 100%;
+  min-height: 100%;
+    position: fixed;
+    z-index: -1;
+}
+
+
+
+
+
+
+
+
