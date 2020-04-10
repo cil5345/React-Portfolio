@@ -12,7 +12,7 @@ function Header() {
         <ul>
             <li><Link to="/about" className ="click-text">about</Link></li>
             <li><Link to="/portfolio" className ="click-text">portfolio</Link></li>
-            <li><a href="images/resume.png" className="click-text">Resume</a></li>
+            <li><a href={require("../../images/resume.png")} className="click-text">Resume</a></li>
         </ul> 
         <ul className="logo">
             <li><a href="https://www.linkedin.com/in/chrislee1012/" target="_blank" className="click-text"><i className="fab fa-linkedin fa-lg"></i></a></li>

@@ -7,7 +7,7 @@ function About() {
     
       <div class="nav-text">
         <img
-          src="https://via.placeholder.com/150"
+          src={require("../../images/chrisleepropic.png")}
           alt="my profile pic"
           class="profile-pic"
         />

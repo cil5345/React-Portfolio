@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.cf580ce9.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.33f19d87.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.33f19d87.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.852b0970.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.852b0970.js.map",
+    "static/js/2.566adfb3.chunk.js": "/React-Portfolio/static/js/2.566adfb3.chunk.js",
+    "static/js/2.566adfb3.chunk.js.map": "/React-Portfolio/static/js/2.566adfb3.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.fbf46a8548cb3ffd55778828f1eb482a.js": "/React-Portfolio/precache-manifest.fbf46a8548cb3ffd55778828f1eb482a.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/main.cf580ce9.chunk.css.map": "/React-Portfolio/static/css/main.cf580ce9.chunk.css.map",
+    "static/js/2.566adfb3.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.566adfb3.chunk.js.LICENSE.txt",
+    "static/media/Stats on the Fly.png": "/React-Portfolio/static/media/Stats on the Fly.5a42ef0f.png",
+    "static/media/chrisleepropic.png": "/React-Portfolio/static/media/chrisleepropic.675de359.png",
+    "static/media/fyre.png": "/React-Portfolio/static/media/fyre.b1c9f91b.png",
+    "static/media/resume.png": "/React-Portfolio/static/media/resume.f92655f2.png",
+    "static/media/weatherapp.png": "/React-Portfolio/static/media/weatherapp.07e853e0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.852b0970.js",
+    "static/js/2.566adfb3.chunk.js",
+    "static/css/main.cf580ce9.chunk.css",
+    "static/js/main.33f19d87.chunk.js"
+  ]
+}

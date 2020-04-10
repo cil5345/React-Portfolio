@@ -9,6 +9,7 @@ import './index.css'
 
 function App() {
   return (
+    
     <Router>
       <div class="nav-text">
       <Route exact path='/' component={Home} />
